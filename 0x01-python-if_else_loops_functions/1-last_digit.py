@@ -8,4 +8,4 @@ if mod > 5:
 elif mod == 0:
     print("0")
 else:
-    print("les than 6 and not 0")
+    print("less than 6 and not 0")
